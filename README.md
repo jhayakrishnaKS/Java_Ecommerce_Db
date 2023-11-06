@@ -31,7 +31,7 @@
      Addressing issues related to file access and data integrity required carefull handling.
 has context menu
 
-# Connecting MySQL with Java can be a bit tricky, but once you get the hang of it, it becomes second nature. Here are some challenges I faced:
+# Connecting MySQL with Java can be a bit tricky,Here are some challenges I faced:
 
 Driver Installation:
 Ensure you have the correct JDBC driver for MySQL.
