@@ -4,6 +4,7 @@
 1.Understanding Project Flow:
      Initially, grasping the overall flow of the project posed a significant challenge.
      It took considerable time to comprehend and navigate through the interconnected modules.
+     
 2.Product Data Handling:
      Loading and managing product data from a SQL file presented challenges.
      Debugging errors, especially in exception handling, was initially difficult.
