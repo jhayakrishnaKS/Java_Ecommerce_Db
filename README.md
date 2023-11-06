@@ -5,7 +5,7 @@
      Initially, grasping the overall flow of the project posed a significant challenge.
      It took considerable time to comprehend and navigate through the interconnected modules.
 2.Product Data Handling:
-     Loading and managing product data from a CSV file presented challenges.
+     Loading and managing product data from a SQL file presented challenges.
      Debugging errors, especially in exception handling, was initially difficult.
  
 3.Category Filtering:
@@ -14,7 +14,7 @@
  
 4.Cart Implementation:
      Working on the cart functionality emerged as the most challenging aspect.
-     Debugging, managing cart state, and ensuring proper storage in CSV files required careful attention.
+     Debugging, managing cart state, and ensuring proper storage in SQL files required careful attention.
 		 And i'm yet to complete Cart implementation.
  
 5.Continuous Learning Curve:
@@ -26,7 +26,7 @@
       Ensuring the reliability and stability of the application posed persistent challenges.
  
 7.Handling File Operations:
-     Efficiently handling file operations, especially reading and writing to CSV files, introduced complexities.
+     Efficiently handling file operations, especially reading and writing to SQL files, introduced complexities.
      Addressing issues related to file access and data integrity required carefull handling.
 has context menu
 
